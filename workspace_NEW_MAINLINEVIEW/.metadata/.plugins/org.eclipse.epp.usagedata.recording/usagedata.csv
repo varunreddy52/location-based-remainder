@@ -1,0 +1,18 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1477489517833
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1477489517833
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1477489517833
+java.vm.specification.version,sysinfo,,,"1.8",1477489517833
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1477489517833
+java.vm.version,sysinfo,,,"25.91-b14",1477489517833
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1477489520744
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1477489520754
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1477489521029
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1477490400762
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1477490408457
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1477490411160
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1477490411175
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1477490411176
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1477490411202
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1477490411202
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1477490411309
